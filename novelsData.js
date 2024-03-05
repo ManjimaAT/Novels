@@ -1,0 +1,86 @@
+
+const novelsData = [
+    {
+      title: "To Kill a Mockingbird",
+      author: "Harper Lee",
+      genre: "Fiction",
+      publicationYear: 1960,
+      image: "https://picfiles.alphacoders.com/140/thumb-1920-140052.jpg",
+      description: "To Kill a Mockingbird is a novel by Harper Lee published in 1960...",
+    },
+    {
+      title: "1984",
+      author: "George Orwell",
+      genre: "Dystopian",
+      publicationYear: 1949,
+      image: "https://kopp-medien.websale.net/bilder/gross/133206.jpg",
+      description: "1984 is a dystopian social science fiction novel by English novelist George Orwell...",
+    },
+    {
+      title: "Pride and Prejudice",
+      author: "Jane Austen",
+      genre: "Romance",
+      publicationYear: 1813,
+      image: "https://flxt.tmsimg.com/assets/p159494_p_v10_ag.jpg",
+      description: "Pride and Prejudice is a romantic novel of manners written by Jane Austen...",
+    },
+    {
+      title: "The Great Gatsby",
+      author: "F. Scott Fitzgerald",
+      genre: "Fiction",
+      publicationYear: 1925,
+      image: "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781471173936/the-great-gatsby-9781471173936_hr.jpg",
+      description: "The Great Gatsby is a novel by American writer F. Scott Fitzgerald...",
+    },
+    {
+      title: "Moby-Dick",
+      author: "Herman Melville",
+      genre: "Adventure",
+      publicationYear: 1851,
+      image: "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781681778488/moby-dick-9781681778488_xlg.jpg",
+      description: "Moby-Dick; or, The Whale is an 1851 novel by American writer Herman Melville...",
+    },
+    {
+      title: "Where the Crawdads Sing",
+      author: "Delia Owens",
+      genre: "Fiction",
+      publicationYear: 2018,
+      image: "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2022/03/WTCS_OnLine_FNL_6072x9000_08_675x1000_thumbnail.jpg",
+      description: "Where the Crawdads Sing is a novel by Delia Owens...",
+    },
+    {
+      title: "The Silent Patient",
+      author: "Alex Michaelides",
+      genre: "Mystery, Thriller",
+      publicationYear: 2019,
+      image: "https://static.wixstatic.com/media/f99b91_461d66609abe423899637b8584cc5c52~mv2.jpg/v1/fit/w_528%2Ch_800%2Cal_c%2Cq_80/file.jpg",
+      description: "The Silent Patient is a psychological thriller novel...",
+    },
+    {
+      title: "The Vanishing Half",
+      author: "Brit Bennett",
+      genre: "Fiction",
+      publicationYear: 2020,
+      image: "https://www.bibdsl.co.uk/imagegallery2/bds/202116/9780349701479.jpg",
+      description: "The Vanishing Half is a novel by Brit Bennett...",
+    },
+    {
+      title: "Such a Fun Age",
+      author: "Kiley Reid",
+      genre: "Fiction",
+      publicationYear: 2019,
+      image: "https://tse2.mm.bing.net/th/id/OIP.V7d_LAXqh-eqcg2ZJ-EIzgAAAA?rs=1&pid=ImgDetMain",
+      description: "Such a Fun Age is a novel by Kiley Reid...",
+    },
+    {
+      title: "Anxious People",
+      author: "Fredrik Backman",
+      genre: "Fiction",
+      publicationYear: 2019,
+      image: "https://cdn2.penguin.com.au/covers/original/9781405930260.jpg",
+      description: "Anxious People is a novel by Fredrik Backman...",
+    },
+  ];
+  
+  export default novelsData;
+  
